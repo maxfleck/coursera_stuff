@@ -1,2 +1,5 @@
-*/*csv
-*/*tf
+*/*/*csv
+*/*/*tf
+*/*checkpoints*
+*/.ipynb_checkpoints
+*/*/.ipynb_checkpoints
